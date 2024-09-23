@@ -1,0 +1,1 @@
+# plugins-algori-image-video-slider
